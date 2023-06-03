@@ -80,4 +80,24 @@ body {
     color: #747474;
 }
 /* happy section end */
+
+
+/* frequently section start */
+.frequently h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #0D0925;
+}
+.frequently button {
+    color: #383838;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    /* font-size: 20px; */
+}
+.frequently .accordion-body {
+    color: #7E848C;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+/* frequently section end */
 /* main section end */

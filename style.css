@@ -30,4 +30,16 @@ body {
     color: #3E3E3E;
 }
 /* nav section end */
+
+
+/* header banner section start */
+.carousel-inner h5 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.carousel-inner p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+/* header banner section end */
 /* header section end */

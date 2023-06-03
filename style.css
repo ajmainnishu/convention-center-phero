@@ -90,6 +90,9 @@ body {
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
     border-radius: 26px;
     position: relative;
+    background-image: url(./images/watermark.svg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .hot .fa-check {
     color: white;
@@ -140,3 +143,21 @@ body {
 }
 /* frequently section end */
 /* main section end */
+
+
+
+
+/* footer section start */
+footer {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400;
+    background-color: #0B0D17;
+    color: #D9DBE1;
+}
+footer h4 {
+    color: #D9DBE1;
+}
+.footer-icon-letter {
+    font-size: 10px;
+}
+/* footer section end */

@@ -43,3 +43,20 @@ body {
 }
 /* header banner section end */
 /* header section end */
+
+
+
+
+/* main section start */
+/* moment section start */
+.moment h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #0A0826;
+}
+.moment p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+/* moment section end */
+/* main section end */

@@ -61,6 +61,45 @@ body {
 /* moment section end */
 
 
+/* package section start */
+.package h3, h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #231D4F;
+}
+.package p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #848199;
+    font-size: 15px;
+}
+.package .fa-check {
+    color: #5243C2;
+    padding: 2px 3px;
+    border-radius: 50%;
+    background-color: rgba(211, 211, 211, 0.418);
+}
+.package a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    background-color: rgba(244, 150, 210, 0.1);
+    border-radius: 24px;
+}
+.hot {
+    background-color: rgba(63, 135, 245, 1);
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+    position: relative;
+}
+.hot .fa-check {
+    color: white;
+}
+.hot p {
+    color: white;
+}
+/* package section end */
+
+
 /* happy section start */
 .happy p {
     font-family: 'Poppins', sans-serif;

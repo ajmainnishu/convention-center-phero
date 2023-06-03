@@ -59,4 +59,25 @@ body {
     font-weight: 700;
 }
 /* moment section end */
+
+
+/* happy section start */
+.happy p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #6C6C6C;
+}
+.happy h5 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #0C1920;
+}
+.happy h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #747474;
+}
+/* happy section end */
 /* main section end */
